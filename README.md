@@ -30,6 +30,6 @@ On peut aussi choisir le mode de remplissage des polygones avec L pour le mode L
 
 Pour l'édition de heightmap :
 On peut dessiner ou flouter en cliquant sur la heightmap ou en restant appuyé et en bougeant la souris.
-Le rayon du crayon et la couleur se paramètre avec les trackbars
+Le rayon du crayon et la couleur se paramètrent avec les trackbars
 
 
